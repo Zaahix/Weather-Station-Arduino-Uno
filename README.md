@@ -34,8 +34,6 @@ It displays:
 https://youtu.be/ln5DKBoQZhw?si=nSAA9KJ3CbZ0Grjs
 
 ## 📂 Files Included
-- `Code/weather_station.ino` – Main Arduino sketch
-- `Images/project_photo.jpg` – Breadboard setup
 - `README.md` – This documentation
 
 ## ✅ Status

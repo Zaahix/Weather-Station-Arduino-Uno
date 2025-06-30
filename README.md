@@ -30,7 +30,7 @@ It displays:
 | BMP180 SCL | A5          |
 | Rain OUT   | D3          |
 
-## 🎥 Demo (Optional)
+## 🎥 Demo
 https://youtu.be/ln5DKBoQZhw?si=nSAA9KJ3CbZ0Grjs
 
 ## 📂 Files Included
